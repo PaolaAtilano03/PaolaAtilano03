@@ -4,7 +4,7 @@
   <section>
     <b><p>About me!</p></b>
     <p>
-      My name is Paola Atilano, I'm a junior developer that likes web technologies for web and mobile applications. I'm currently a computer enginnering major at CUCEI in Mexico. My estimated graduation dateis 202 if everything goes well (fingers crossed!)
+      My name is Paola Atilano, I'm a junior developer that likes web technologies for web and mobile applications. I'm currently a computer enginnering major at CUCEI in Mexico. My estimated graduation date is on 2025 if everything goes well (fingers crossed!)
     </p>
   </section>
   <section>
